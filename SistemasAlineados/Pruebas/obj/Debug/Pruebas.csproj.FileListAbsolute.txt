@@ -1,0 +1,6 @@
+c:\users\a308610\documents\visual studio 2015\Projects\SistemasAlineados\Pruebas\bin\Debug\Pruebas.exe.config
+c:\users\a308610\documents\visual studio 2015\Projects\SistemasAlineados\Pruebas\bin\Debug\Pruebas.exe
+c:\users\a308610\documents\visual studio 2015\Projects\SistemasAlineados\Pruebas\bin\Debug\Pruebas.pdb
+c:\users\a308610\documents\visual studio 2015\Projects\SistemasAlineados\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+c:\users\a308610\documents\visual studio 2015\Projects\SistemasAlineados\Pruebas\obj\Debug\Pruebas.exe
+c:\users\a308610\documents\visual studio 2015\Projects\SistemasAlineados\Pruebas\obj\Debug\Pruebas.pdb
